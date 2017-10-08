@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sort_order_awesome">Sort by Most Awesome</string>
+    <string name="not_awesome">Sort by Least Awesome</string>
+</resources>
